@@ -13,6 +13,7 @@
 DECRIPTION OF THE TASK : This program reads student data from a text file, analyzes it, and generates a formatted PDF report containing total students, average marks, highest & lowest marks, and individual student details. A success message is displayed in the terminal.
 
 Components I used :
+
 Python Programming Language – For writing the script.
 
 Text File – To store input data.
