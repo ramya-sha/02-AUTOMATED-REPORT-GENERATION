@@ -14,9 +14,13 @@ DECRIPTION OF THE TASK : This program reads student data from a text file, analy
 
 Components I used :
 Python Programming Language – For writing the script.
+
 Text File – To store input data.
+
 File Handling – To read data from the file.
+
 ReportLab Library – To generate the PDF report.
+
 Command Prompt (CMD) – To execute the Python script.
 
 
