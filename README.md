@@ -24,5 +24,8 @@ ReportLab Library – To generate the PDF report.
 
 Command Prompt (CMD) – To execute the Python script.
 
+*OUTPUT* : 
+
+<img width="1741" height="893" alt="Image" src="https://github.com/user-attachments/assets/57e50653-9941-4055-8e67-4647897cb43a" />
 
 
