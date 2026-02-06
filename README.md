@@ -2,13 +2,13 @@
 
 *NAME* : RAMYA. S
 
-*INTERN ID* : 
+*INTERN ID* : CTIS2260
 
 *DOMAIN* : PYTHON DEVELOPMENT 
 
 *DURATION* : 4 WEEKS
 
-*MENTOR* : Dr. Anurag Shrivastava
+*MENTOR* : Neela Santhosh Kumar
 
 DECRIPTION OF THE TASK : This program reads student data from a text file, analyzes it, and generates a formatted PDF report containing total students, average marks, highest & lowest marks, and individual student details. A success message is displayed in the terminal.
 
